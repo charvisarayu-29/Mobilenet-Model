@@ -1,0 +1,49 @@
+body
+{
+    font-family: 'Pacifico', cursive;
+    background: #b7ff64;
+}
+
+.header_div
+{
+    background: #ffee00;
+    color: black;
+}
+
+.header_div img
+{
+    width: 100px;
+}
+
+.main_div
+{
+    background: #69ee74;
+    padding: 10px;
+    margin-top: 15px;
+    border:3px solid white;
+}
+
+.main_div label
+{
+    background: white;
+    padding: 10px;
+    width: 300px;
+    margin-bottom: 0px;
+    box-shadow: 5px 5px 18px white;
+}
+
+#camera
+{
+    width: 300px;
+    border: 2px solid white;
+    box-shadow: 5px 5px 18px white;
+    height: 300px;
+}
+
+.main_div button
+{
+    width: 300px;
+    font-size: 18px;
+    box-shadow: 5px 5px 18px white;
+    border: 1px solid;
+}
